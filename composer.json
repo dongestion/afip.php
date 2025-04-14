@@ -1,5 +1,5 @@
 {
-    "name": "kevinrein/afip.php",
+    "name": "dongestion/afip.php",
     "type": "library",
     "description": "Libreria para usar los Web Services de AFIP (Argentina) ",
     "keywords": ["afip","facturacion-electronica","gratis","soap","cae","padron","contribuyente","libreria"],
